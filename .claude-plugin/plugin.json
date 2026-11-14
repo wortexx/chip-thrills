@@ -1,0 +1,9 @@
+{
+  "name": "chip-thrills",
+  "description": "Agents and skills for ASIC and FPGA design work, including writing technical theses.",
+  "version": "0.1.0",
+  "author": { "name": "Sergiy Bidnyi" },
+  "homepage": "https://github.com/wortexx/chip-thrills",
+  "repository": "https://github.com/wortexx/chip-thrills",
+  "license": "MIT"
+}

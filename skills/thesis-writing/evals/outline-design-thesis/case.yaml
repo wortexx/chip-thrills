@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: outline-design-thesis
+expected_outcome: |
+  outline.md gives a design-thesis chapter outline with descriptive chapter titles, the points
+  each chapter makes, where key figures and tables go, page budgets summing to about 60, and a
+  clear statement of research questions and contribution.
