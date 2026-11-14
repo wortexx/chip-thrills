@@ -1,0 +1,14 @@
+{
+  "name": "chip-thrills",
+  "owner": {
+    "name": "Sergiy Bidnyi"
+  },
+  "description": "Agents and skills for ASIC and FPGA design, inspired by Awesome Copilot.",
+  "plugins": [
+    {
+      "name": "chip-thrills",
+      "source": "./",
+      "description": "Agents and skills for ASIC and FPGA design work, including writing technical theses."
+    }
+  ]
+}
